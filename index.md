@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Meredith Loughran
+*blogger | crypto immersed | social media junkie | slightly manic | INJT-A*
 
-I'm glad you are here. I plan to talk about ...
+Thank you for visiting my first blog page on GitHub!
